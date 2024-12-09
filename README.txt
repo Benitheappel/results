@@ -1,5 +1,5 @@
 Hello,
-if you want to use this, have a file on your Desktop called input.txt where you paste you're puzzel code. After that you should get results.
+if you want to use this, have a file on your Desktop called input.txt where you paste your puzzel code in. After that you should get results.
 All the best,
 Maya
 
